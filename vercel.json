@@ -1,6 +1,9 @@
 {
   "cleanUrls": true,
   "redirects": [
-    { "source": "/", "destination": "/plastic-paint", "permanent": false }
+    { "source": "/plastic-paint", "destination": "/#s-plastic", "permanent": false },
+    { "source": "/oil-paint", "destination": "/#s-oil", "permanent": false },
+    { "source": "/epoxy-paint", "destination": "/#s-epoxy", "permanent": false },
+    { "source": "/profile-paint", "destination": "/#s-profile", "permanent": false }
   ]
 }
