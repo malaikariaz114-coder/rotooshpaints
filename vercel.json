@@ -1,0 +1,6 @@
+{
+  "cleanUrls": true,
+  "redirects": [
+    { "source": "/", "destination": "/plastic-paint", "permanent": false }
+  ]
+}
